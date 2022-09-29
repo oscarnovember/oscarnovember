@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...JavaScript
 - 🌱 I’m currently learning ...Server-side Golang
 - 💞️ I’m looking to collaborate on ...Open Source Projects
-- 📫 How to reach me ...patrickishaf@gmail.com
+- 📫 How to reach me ...don't
 
 <!---
 oscarnovember/oscarnovember is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
